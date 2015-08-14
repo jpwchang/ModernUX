@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152pt" height="28.8pt">
+<defs/>
+<g id="layer1">
+  <g id="active-center" transform="translate(14.375, 14.375)" fill="none">
+   <rect id="rect3012" transform="translate(0.625, 0.625)" fill="#ffffff" fill-opacity="0.00392156863" opacity="0.01000001000" width="13.60000000000pt" height="13.60000000000pt"/>
+   <path id="ehrerh" transform="translate(3.46815, 4.46829)" fill="#ffffff" d="M3.55271e-15 0.707107L4.94975 5.65685L0 10.6066L0.707107 11.3137L5.65685 6.36396L10.6066 11.3137L11.3137 10.6066L6.36396 5.65685L11.3137 0.707107L10.6066 0L5.65685 4.94975L0.707107 0Z"/>
+  </g>
+  <g id="hover-center" transform="translate(40.375, 13.375)" fill="none">
+   <rect id="rect3012-4" transform="translate(0.625, 0.625)" fill="#ffffff" fill-opacity="0.00392156863" opacity="0.01000001000" width="13.60000000000pt" height="13.60000000000pt"/>
+   <path id="ehrerh-3" transform="translate(3.46815, 4.46829)" fill="#00ffff" d="M0 0.707107L4.94975 5.65685L0 10.6066L0.707107 11.3137L5.65685 6.36396L10.6066 11.3137L11.3137 10.6066L6.36396 5.65685L11.3137 0.707107L10.6066 0L5.65685 4.94975L0.707107 0Z"/>
+  </g>
+  <g id="pressed-center" transform="translate(43.4012, 13.375)" fill="none">
+   <rect id="rect3012-4-4" transform="translate(24.5988, 0.625)" fill="#ffffff" fill-opacity="0.00392156863" opacity="0.01000001000" width="13.60000000000pt" height="13.60000000000pt"/>
+   <path id="ehrerh-3-6" transform="translate(28.5988, 4.625)" fill="#00ffff" d="M0 0.711112L4.97778 5.68888L0 10.6667L0.711112 11.3778L5.68888 6.4L10.6667 11.3778L11.3778 10.6667L6.4 5.68888L11.3778 0.711112L10.6667 0L5.68888 4.97778L0.711112 0Z"/>
+  </g>
+  <g id="inactive-center" transform="translate(94.375, 14.375)" fill="none">
+   <rect id="rect3012-1" transform="translate(0.625, 0.625)" fill="#ffffff" fill-opacity="0.00392156863" opacity="0.01000001000" width="13.60000000000pt" height="13.60000000000pt"/>
+   <path id="ehrerh-1" transform="translate(3.46815, 4.46829)" fill="#bfbfbf" d="M3.55271e-15 0.707107L4.94975 5.65685L0 10.6066L0.707107 11.3137L5.65685 6.36396L10.6066 11.3137L11.3137 10.6066L6.36396 5.65685L11.3137 0.707107L10.6066 0L5.65685 4.94975L0.707107 0Z"/>
+  </g>
+ </g>
+</svg>

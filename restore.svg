@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152pt" height="28.8pt">
+<defs/>
+<g id="layer1">
+  <g id="active-center" transform="translate(19.375, 11.375)" fill="none">
+   <rect id="rect3074" transform="translate(0.625, 0.625)" fill="#ffffff" fill-opacity="0.00392156863" opacity="0.01000001000" width="13.60000000000pt" height="13.60000000000pt"/>
+   <path id="rect3006" transform="translate(3.625, 5.625)" fill="#ffffff" d="M0 0L0 1L0 2L0 6C0 6.554 0.446 7 1 7L5 7L6 7L7 7L7 6L6 6L5 6L1 6L1 2L1 1L1 0Z"/>
+   <rect id="rect3784" transform="matrix(0.707107 0.707107 -0.707107 0.707107 10.489 5.05393)" fill="#ffffff" width="0.80000000000pt" height="7.20000000000pt"/>
+  </g>
+  <g id="hover-center" transform="translate(37.375, 11.375)" fill="none">
+   <rect id="rect3074-5" transform="translate(0.625004, 0.625)" fill="#ffffff" fill-opacity="0.00392156863" opacity="0.01000001000" width="13.60000000000pt" height="13.60000000000pt"/>
+   <path id="rect3006-9" transform="translate(3.625, 5.625)" fill="#00ffff" d="M0 0L0 1L0 2L0 6C0 6.554 0.446 7 1 7L5 7L6 7L7 7L7 6L6 6L5 6L1 6L1 2L1 1L1 0Z"/>
+   <rect id="rect3784-6" transform="matrix(0.707107 0.707107 -0.707107 0.707107 10.489 5.05393)" fill="#00ffff" width="0.80000000000pt" height="7.20000000000pt"/>
+  </g>
+  <g id="pressed-center" transform="translate(57.375, 11.375)" fill="none">
+   <rect id="rect3074-5-7" transform="translate(0.625, 0.625)" fill="#ffffff" fill-opacity="0.00392156863" opacity="0.01000001000" width="13.60000000000pt" height="13.60000000000pt"/>
+   <path id="rect3006-9-6" transform="translate(5.625, 7.42362)" fill="#00ffff" d="M0 0L0 4C0 4.554 0.446 5 1 5L5 5L5 4L1 4L1 0Z"/>
+   <path id="rect3784-6-0" transform="translate(6.225, 6.625)" fill="#00ffff" d="M0.707159 5.14862L5.149 0.707107L4.44184 0L0 4.44152Z"/>
+  </g>
+  <g id="inactive-center" transform="translate(76.375, 11.375)" fill="none">
+   <rect id="rect3074-8" transform="translate(0.625, 0.625)" fill="#bfbfbf" opacity="0.01000001000" width="13.60000000000pt" height="13.60000000000pt"/>
+   <path id="rect3006-0" transform="translate(3.625, 5.625)" fill="#bfbfbf" d="M0 0L0 1L0 2L0 6C0 6.554 0.446 7 1 7L5 7L6 7L7 7L7 6L6 6L5 6L1 6L1 2L1 1L1 0Z"/>
+   <rect id="rect3784-3" transform="matrix(0.707107 0.707107 -0.707107 0.707107 10.489 5.05393)" fill="#bfbfbf" width="0.80000000000pt" height="7.20000000000pt"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152pt" height="28.8pt">
+<defs/>
+<g id="layer1">
+  <g id="active-center" transform="translate(18.3464, 12.375)" fill="none">
+   <rect id="rect3074" transform="translate(1.65365, 0.625)" fill="#ffffff" fill-opacity="0.00392156863" opacity="0.01000001000" width="13.60000000000pt" height="13.60000000000pt"/>
+   <rect id="b" transform="translate(3.2536, 5.625)" fill="none" stroke="#ffffff" stroke-width="0.90000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.16000008583" width="10.80000000000pt" height="7.20000000000pt"/>
+  </g>
+  <g id="hover-center" transform="translate(42.7898, 12.375)" fill="none">
+   <rect id="rect3074-7" transform="translate(1.2102, 0.625)" fill="#ffffff" fill-opacity="0.00392156863" opacity="0.01000001000" width="13.60000000000pt" height="13.60000000000pt"/>
+   <rect id="b-4" transform="translate(3.1102, 5.625)" fill="none" stroke="#00ffff" stroke-width="0.90000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.16000008583" width="10.80000000000pt" height="7.20000000000pt"/>
+  </g>
+  <g id="pressed-center" transform="translate(65.6464, 11.975)" fill="none">
+   <rect id="rect3074-7-8" transform="translate(0.95364, 0.625)" fill="#ffffff" fill-opacity="0.00392156863" opacity="0.01000001000" width="13.60000000000pt" height="13.60000000000pt"/>
+   <rect id="b-4-1" transform="translate(2.75364, 6.025)" fill="none" stroke="#00ffff" stroke-width="0.90000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="10.80000000000pt" height="7.20000000000pt"/>
+  </g>
+  <g id="inactive-center" transform="translate(88.903, 12.375)" fill="none">
+   <rect id="rect3074-2" transform="translate(1.097, 0.625)" fill="#ffffff" fill-opacity="0.00392156863" opacity="0.01000001000" width="13.60000000000pt" height="13.60000000000pt"/>
+   <rect id="b-4-11" transform="translate(2.897, 5.625)" fill="none" stroke="#bfbfbf" stroke-width="0.90000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.16000008583" width="10.80000000000pt" height="7.20000000000pt"/>
+  </g>
+ </g>
+</svg>
