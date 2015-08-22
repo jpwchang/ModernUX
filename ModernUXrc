@@ -9,16 +9,16 @@ Animation=0
 
 
 [Layout]
-BorderLeft=2
-BorderRight=2
-BorderBottom=5
+BorderLeft=1
+BorderRight=1
+BorderBottom=1
 TitleEdgeTop=4
 TitleEdgeBottom=0
 TitleEdgeLeft=6
 TitleEdgeRight=7
 TitleBorderLeft=35
 TitleBorderRight=5
-TitleHeight=27
+TitleHeight=26
 ButtonWidth=15
 ButtonHeight=15
 ButtonSpacing=15
