@@ -7,22 +7,6 @@
    <stop stop-color="#ecf3f4" offset="0.00000000000" stop-opacity="1.00000000000"/>
    <stop stop-color="#f4ecf1" offset="1.00000000000" stop-opacity="1.00000000000"/>
   </linearGradient>
-  <linearGradient id="gradient1" gradientTransform="translate(-319.875, -197)" gradientUnits="objectBoundingBox" x1="64.17500000000" y1="2.51090116279" x2="64.17500000000" y2="2.28997093023" spreadMethod="pad">
-   <stop stop-color="#000000" offset="0.00000000000" stop-opacity="0.79432364385"/>
-   <stop stop-color="#000000" offset="1.00000000000" stop-opacity="0.50980392157"/>
-  </linearGradient>
-  <linearGradient id="gradient2" gradientTransform="translate(-320, -57)" gradientUnits="objectBoundingBox" x1="64.20000000000" y1="0.88299418605" x2="64.20000000000" y2="0.66206395349" spreadMethod="pad">
-   <stop stop-color="#000000" offset="0.00000000000" stop-opacity="0.79432364385"/>
-   <stop stop-color="#000000" offset="1.00000000000" stop-opacity="0.50980392157"/>
-  </linearGradient>
-  <linearGradient id="gradient3" gradientTransform="matrix(-1 0 0 1 110 -175)" gradientUnits="objectBoundingBox" x1="2.73332646669" y1="6.64717741935" x2="2.73332646669" y2="5.67943548387" spreadMethod="pad">
-   <stop stop-color="#000000" offset="0.00000000000" stop-opacity="0.50980392157"/>
-   <stop stop-color="#000000" offset="1.00000000000" stop-opacity="0.27450980392"/>
-  </linearGradient>
-  <linearGradient id="gradient4" gradientTransform="matrix(-1 0 0 1 110 -175)" gradientUnits="objectBoundingBox" x1="2.73332646669" y1="6.64717741935" x2="2.73332646669" y2="5.67943548387" spreadMethod="pad">
-   <stop stop-color="#000000" offset="0.00000000000" stop-opacity="0.50980392157"/>
-   <stop stop-color="#000000" offset="1.00000000000" stop-opacity="0.27450980392"/>
-  </linearGradient>
  </defs>
 <g id="layer1">
   <rect id="rect4128" transform="translate(0, 10)" fill="url(#gradient0)" opacity="0.75000000000" width="520.00000000000pt" height="232.00000000000pt" rx="20.54193120000pt" ry="20.54193120000pt"/>
@@ -31,7 +15,7 @@
    <path id="path6214-7" transform="translate(0.625, 8.625)" fill="#04c3ff" opacity="0.50000000000" d="M145 0L0 0L0 7L145 7Z"/>
    <path id="path6211-7" transform="translate(0.625, 0.625)" fill="#f8f8f8" d="M0 0L0 8L0 14L145 14L145 8L145 0L68 0Z"/>
   </g>
-  <path id="decoration-center" transform="translate(105, 116)" fill="#333333" d="M0 0L0 86L145 86L145 0Z"/>
+  <path id="decoration-center" transform="translate(105, 116)" fill="#2f343f" d="M0 0L0 86L145 86L145 0Z"/>
   <g id="decoration-left" transform="translate(-0.5, 115.375)" fill="none">
    <path id="path6345-1" transform="translate(0.625, 0.625)" fill="none" opacity="0.50000000000" d="M0 0L0 86L25 86L37 86L45 86L49.8125 86L60 86L64 86L74.875 86L74.875 0L64 0L60 0L49.8125 0L45 0L37 0L25 0Z"/>
    <path id="path6342-6" transform="translate(75.5, 0.625)" fill="#04c3ff" opacity="0.50000000000" d="M0 0L0 86L5 86L5 0Z"/>
@@ -42,7 +26,7 @@
    <path id="path6342-0-2" transform="matrix(-1 0 0 1 30.625 0.625)" fill="#04c3ff" opacity="0.50000000000" d="M0 0L0 86L5 86L5 0Z"/>
    <path id="path6339-8-8" transform="translate(0.625, 0.625)" fill="#f8f8f8" d="M0 0L0 86L5 86L14 86L14.875 86L15 86L16 86L25 86L29 86L29 0L25 0L16 0L15 0L14.875 0L14 0L5 0Z"/>
   </g>
-  <text id="text7100" fill="#007aff" font-family="Droid Sans" font-size="7.19999980927pt" font-weight="bold" x="0.00000000000pt" y="5.48437500000pt" transform="translate(164, 91.0566)"><tspan x="0"  y="6.85547">Active</tspan></text>
+  <text id="text7100" fill="#007aff" x="0.00000000000pt" y="5.48437500000pt" transform="translate(164, 91.0566)"><tspan x="0"  y="6.85547" font-family="Droid Sans" font-size="7.19999980927pt" font-weight="bold"> </tspan><tspan x="0"  y="6.85547" font-family="Droid Sans" font-size="7.19999980927pt" font-weight="bold">Active</tspan></text>
   <g id="decoration-bottomleft" transform="translate(-0.625, 201.375)" fill="none">
    <path id="rect5073-2-768" transform="translate(75.6249, 0.625)" fill="#04c3ff" opacity="0.50000000000" d="M0.000119556 0L0.000119556 8L0.000119556 9.9375C0.000119556 9.959 -0.000149444 9.9785 0.000119556 10L0.000119556 12L0.000119556 15L3.00012 15L5.00012 15L5.00012 14.9375L15.0001 14.9375L25.0001 14.9375L30.0001 14.9375L30.0001 13.9375L25.0001 13.9375L15.0001 13.9375L5.00012 13.9375L5.00012 10L5.00012 8L1.00012 8L1.00012 0Z"/>
    <g id="g6432" transform="" fill="none">
@@ -54,33 +38,33 @@
    <g id="8" transform="" fill="none">
     <path id="rect6520-3-2-66" transform="matrix(-1 0 0 1 105.625 0.625)" fill="none" opacity="0.50000000000" d="M18 0C8.028 0 0 8.028 0 18L0 30L0 39L0 40L0 42L0 57L0 65.0625L0 66L0 66.0625L75 66.0625L75 66L75 65.9375L75 65.0625L75 65L75 57.0312L75 57L75 56.9688L75 40.0625C75 40.041 74.9997 40.0215 75 40L75 38C75 36.3414 76.338 35 78 35L80 35L80 35.0625L90 35.0625L100 35.0625L105 35.0625L105 0.0625L100 0.0625L100 0L90 0L90 0.0625L80 0.0625L80 0L62 0L60 0Z"/>
     <path id="rect5073-2-2" transform="translate(0.625, 35.625)" fill="#04c3ff" opacity="0.50000000000" d="M25 0L25 0.0625L15 0.0625L5 0.0625L0 0.0625L0 1.0625L5 1.0625L15 1.0625L25 1.0625L25 5L25 22.0312L29 22.0312L29 30L29 30.9375L29 31L30 31L30 30.9375L30 30L30 22.0312L30 21.9688L30 5.0625C30 5.041 30.0003 5.0215 30 5L30 3.0625L30 3L30 0.0625L27.5938 0.0625C27.3981 0.022748 27.2077 0 27 0Z"/>
-    <path id="rect5073-4-9-64" transform="translate(0.625, 36.6875)" fill="#333333" d="M26 0L26 0.9375L25 0.9375L25 1L23 1L15 1L5 1L0 1L0 28.9375L0 29.9375L5 29.9375L29 29.9375L29 29.875L29 28.9375L29 20.9688L29 20.9062L29 5L29 4.9375L29 3.9375L29 3L29 2.9375L29 1L29 0Z"/>
-    <path id="rect6324-5" transform="matrix(-1 0 0 1 29.6251 36.625)" fill="#333333" d="M2 0C0.892 0 0 0.892 0 2L0 3C0 1.892 0.892 1 2 1L4 1L29 1L29 0L4 0Z"/>
+    <path id="rect5073-4-9-64" transform="translate(0.625, 36.6875)" fill="#2f343f" d="M26 0L26 0.9375L25 0.9375L25 1L23 1L15 1L5 1L0 1L0 28.9375L0 29.9375L5 29.9375L29 29.9375L29 29.875L29 28.9375L29 20.9688L29 20.9062L29 5L29 4.9375L29 3.9375L29 3L29 2.9375L29 1L29 0Z"/>
+    <path id="rect6324-5" transform="matrix(-1 0 0 1 29.6251 36.625)" fill="#2f343f" d="M2 0C0.892 0 0 0.892 0 2L0 3C0 1.892 0.892 1 2 1L4 1L29 1L29 0L4 0Z"/>
    </g>
-   <path id="rect6324-5-36" transform="translate(0.625, 36.6875)" fill="#3c4b56" opacity="0.20000000000" d="M0 0L0 1L24 1L25 1L26 1L28.7187 1L29 1L29 0L27 0L25 0L24 0Z"/>
+   <path id="rect6324-5-36" transform="translate(0.625, 36.6875)" fill="#2f343f" opacity="0.20000000000" d="M0 0L0 1L24 1L25 1L26 1L28.7187 1L29 1L29 0L27 0L25 0L24 0Z"/>
   </g>
   <g id="decoration-inactive-bottom" transform="translate(404.375, 201.375)" fill="none">
    <path id="path6217-8-9" transform="translate(0.625, 15.625)" fill="none" opacity="0.40000000000" d="M0 0L0 25L0 35L0 40L0 50L0 60L0 85L145 85L145 60L145 50L145 40L145 35L145 25L145 0Z"/>
-   <path id="path6214-7-1" transform="translate(0.625, 8.625)" fill="#000000" fill-opacity="0.79607843137" opacity="0.30000000000" d="M145 0L0 0L0 7L145 7Z"/>
+   <path id="path6214-7-1" transform="translate(0.625, 8.625)" fill="#e2e6ef" opacity="0.30000000000" d="M145 0L0 0L0 7L145 7Z"/>
    <path id="path6211-7-8" transform="translate(0.625, 0.625)" fill="#f8f8f8" d="M0 0L0 8L0 14L145 14L145 8L145 0L68 0Z"/>
   </g>
-  <path id="decoration-inactive-center" transform="translate(404.734, 116)" fill="#808080" d="M0 0L0 86L145 86L145 0Z"/>
+  <path id="decoration-inactive-center" transform="translate(404.734, 116)" fill="#2f343f" d="M0 0L0 86L145 86L145 0Z"/>
   <g id="decoration-inactive-left" transform="translate(299.5, 115.375)" fill="none">
    <path id="path6345-1-5" transform="translate(0.625, 0.625)" fill="none" opacity="0.40000000000" d="M0 0L0 86L25 86L37 86L45 86L49.8125 86L60 86L64 86L74.875 86L74.875 0L64 0L60 0L49.8125 0L45 0L37 0L25 0Z"/>
-   <path id="path6342-6-9" transform="translate(75.5, 0.625)" fill="url(#gradient1)" opacity="0.30000000000" d="M0 0L0 86L5 86L5 0Z"/>
+   <path id="path6342-6-9" transform="translate(75.5, 0.625)" fill="#e2e6ef" opacity="0.30000000000" d="M0 0L0 86L5 86L5 0Z"/>
    <path id="path6339-9-8" transform="translate(76.5, 0.625)" fill="#f8f8f8" d="M0 0L0 86L4 86L14 86L23.875 86L28 86L28.875 86L29 86L29 0L28.875 0L28 0L23.875 0L14 0L4 0Z"/>
   </g>
   <g id="decoration-inactive-right" transform="translate(549.375, 115.375)" fill="none">
    <path id="path6345-7-2-6" transform="translate(30.625, 0.625)" fill="none" opacity="0.40000000000" d="M0 0L0 86L11 86L15 86L30 86L38 86L50 86L75 86L75 0L50 0L38 0L30 0L15 0L11 0Z"/>
-   <path id="path6342-0-2-0" transform="matrix(-1 0 0 1 30.625 0.625)" fill="url(#gradient2)" opacity="0.30000000000" d="M0 0L0 86L5 86L5 0Z"/>
+   <path id="path6342-0-2-0" transform="matrix(-1 0 0 1 30.625 0.625)" fill="#e2e6ef" opacity="0.30000000000" d="M0 0L0 86L5 86L5 0Z"/>
    <path id="path6339-8-8-7" transform="translate(0.625, 0.625)" fill="#f8f8f8" d="M0 0L0 86L5 86L14 86L14.875 86L15 86L16 86L25 86L29 86L29 0L25 0L16 0L15 0L14.875 0L14 0L5 0Z"/>
   </g>
   <g id="decoration-inactive-top" transform="translate(404.375, 49.3749)" fill="none">
    <g id="7-7" transform="" fill="none">
     <path id="path6055-5-7" transform="translate(0.625, 0.625)" fill="none" opacity="0.40000000000" d="M0 0L0 15L0 21L0 25L0 35L145 35L145 25L145 21L145 15L145 0Z"/>
-    <path id="path6098-4-0" transform="translate(0.625, 35.625)" fill="#000000" fill-opacity="0.27450980392" opacity="0.30000000000" d="M0 0L0 22L145 22L145 0Z"/>
-    <path id="path6095-2-9" transform="translate(0.625, 36.625)" fill="#808080" d="M145 0L0 0L0 1L145 1Z"/>
-    <path id="path6092-3-5" transform="translate(0.625, 37.625)" fill="#808080" d="M0 0L0 19.9687L0 20L0 29L145 29L145 20L145 19.9687L145 0Z"/>
+    <path id="path6098-4-0" transform="translate(0.625, 35.625)" fill="#e2e6ef" opacity="0.30000000000" d="M0 0L0 22L145 22L145 0Z"/>
+    <path id="path6095-2-9" transform="translate(0.625, 36.625)" fill="#2f343f" d="M145 0L0 0L0 1L145 1Z"/>
+    <path id="path6092-3-5" transform="translate(0.625, 37.625)" fill="#2f343f" d="M0 0L0 19.9687L0 20L0 29L145 29L145 20L145 19.9687L145 0Z"/>
    </g>
   </g>
   <g id="decoration-top" transform="translate(104.375, 49.375)" fill="none">
@@ -89,9 +73,9 @@
      <path id="path6055-5" transform="translate(0.625, 0.625)" fill="none" opacity="0.50000000000" d="M0 0L0 15L0 21L0 25L0 35L145 35L145 25L145 21L145 15L145 0Z"/>
      <path id="path6098-4" transform="translate(0.625, 35.625)" fill="#04c3ff" opacity="0.50000000000" d="M0 0L0 22L145 22L145 0Z"/>
      <path id="path6095-2" transform="translate(0.625, 36.625)" fill="#333333" d="M145 0L0 0L0 1L145 1Z"/>
-     <path id="path6092-3" transform="translate(0.625, 37.625)" fill="#333333" d="M0 0L0 19.9687L0 20L0 29L145 29L145 20L145 19.9687L145 0Z"/>
+     <path id="path6092-3" transform="translate(0.625, 37.625)" fill="#2f343f" d="M0 0L0 19.9687L0 20L0 29L145 29L145 20L145 19.9687L145 0Z"/>
     </g>
-    <path id="path6095-2-1" transform="translate(0.625, 36.625)" fill="#3c4b56" opacity="0.20000000000" d="M145 0L0 0L0 1L145 1Z"/>
+    <path id="path6095-2-1" transform="translate(0.625, 36.625)" fill="#2f343f" opacity="0.20000000000" d="M145 0L0 0L0 1L145 1Z"/>
    </g>
   </g>
   <rect id="hint-stretch-borders" transform="translate(325, 130)" fill="#21a2d0" width="4.00000000000pt" height="4.00000952000pt"/>
@@ -99,10 +83,10 @@
    <g id="8-27" transform="" fill="none">
     <path id="rect6520-3-2-66-69" transform="translate(0.625, 0.625)" fill="none" opacity="0.50000000000" d="M18 0C8.028 0 0 8.028 0 18L0 30L0 39L0 40L0 42L0 57L0 65.0625L0 66L0 66.0625L75 66.0625L75 66L75 65.9375L75 65.0625L75 65L75 57.0312L75 57L75 56.9688L75 40.0625C75 40.041 74.9997 40.0215 75 40L75 38C75 36.3414 76.338 35 78 35L80 35L80 35.0625L90 35.0625L100 35.0625L105 35.0625L105 0.0625L100 0.0625L100 0L90 0L90 0.0625L80 0.0625L80 0L62 0L60 0Z"/>
     <path id="rect5073-2-2-3" transform="matrix(-1 0 0 1 105.625 35.625)" fill="#04c3ff" opacity="0.50000000000" d="M25 0L25 0.0625L15 0.0625L5 0.0625L0 0.0625L0 1.0625L5 1.0625L15 1.0625L25 1.0625L25 5L25 22.0312L29 22.0312L29 30L29 30.9375L29 31L30 31L30 30.9375L30 30L30 22.0312L30 21.9688L30 5.0625C30 5.041 30.0003 5.0215 30 5L30 3.0625L30 3L30 0.0625L27.5938 0.0625C27.3981 0.02275 27.2077 0 27 0Z"/>
-    <path id="rect5073-4-9-64-5" transform="matrix(-1 0 0 1 105.625 36.6875)" fill="#333333" d="M26 0L26 0.9375L25 0.9375L25 1L15 1L5 1L0 1L0 28.9375L0 29.9375L5 29.9375L29 29.9375L29 29.875L29 28.9375L29 20.9688L29 20.9062L29 4.9375L29 3.9375L29 3L29 2.9375L29 0Z"/>
-    <path id="rect6324-5-3" transform="translate(76.625, 36.625)" fill="#333333" d="M2 0C0.892 0 0 0.892 0 2L0 3C0 1.892 0.892 1 2 1L4 1L29 1L29 0L4 0Z"/>
+    <path id="rect5073-4-9-64-5" transform="matrix(-1 0 0 1 105.625 36.6875)" fill="#2f343f" d="M26 0L26 0.9375L25 0.9375L25 1L15 1L5 1L0 1L0 28.9375L0 29.9375L5 29.9375L29 29.9375L29 29.875L29 28.9375L29 20.9688L29 20.9062L29 4.9375L29 3.9375L29 3L29 2.9375L29 0Z"/>
+    <path id="rect6324-5-3" transform="translate(76.625, 36.625)" fill="#2f343f" d="M2 0C0.892 0 0 0.892 0 2L0 3C0 1.892 0.892 1 2 1L4 1L29 1L29 0L4 0Z"/>
    </g>
-   <path id="rect6324-5-36-9" transform="matrix(-1 0 0 1 105.625 36.6875)" fill="#3c4b56" opacity="0.20000000000" d="M0 0L0 1L24 1L25 1L28.7187 1L29 1L29 0L27 0L25 0L24 0ZM28.7187 2C28.8891 2.29455 29 2.6339 29 3L29 2Z"/>
+   <path id="rect6324-5-36-9" transform="matrix(-1 0 0 1 105.625 36.6875)" fill="#2f343f" opacity="0.20000000000" d="M0 0L0 1L24 1L25 1L28.7187 1L29 1L29 0L27 0L25 0L24 0ZM28.7187 2C28.8891 2.29455 29 2.6339 29 3L29 2Z"/>
   </g>
   <g id="decoration-bottomright" transform="translate(249.375, 201.375)" fill="none">
    <path id="rect5073-2-768-5" transform="matrix(-1 0 0 1 30.6251 0.625)" fill="#04c3ff" opacity="0.50000000000" d="M0.000119556 0L0.000119556 8L0.000119556 9.9375C0.000119556 9.959 -0.000149444 9.9785 0.000119556 10L0.000119556 12L0.000119556 15L3.00012 15L5.00012 15L5.00012 14.9375L15.0001 14.9375L25.0001 14.9375L30.0001 14.9375L30.0001 13.9375L25.0001 13.9375L15.0001 13.9375L5.00012 13.9375L5.00012 10L5.00012 8L1.00012 8L1.00012 0Z"/>
@@ -112,14 +96,14 @@
    </g>
   </g>
   <g id="decoration-inactive-bottomright" transform="translate(549.375, 201.375)" fill="none">
-   <path id="rect5073-2-768-6" transform="matrix(-1 0 0 1 30.6251 0.625)" fill="#000000" fill-opacity="0.79607843137" opacity="0.30000000000" d="M0.000119556 0L0.000119556 8L0.000119556 9.9375C0.000119556 9.959 -0.000149444 9.9785 0.000119556 10L0.000119556 12L0.000119556 15L3.00012 15L5.00012 15L5.00012 14.9375L15.0001 14.9375L25.0001 14.9375L30.0001 14.9375L30.0001 13.9375L25.0001 13.9375L15.0001 13.9375L5.00012 13.9375L5.00012 10L5.00012 8L1.00012 8L1.00012 0Z"/>
+   <path id="rect5073-2-768-6" transform="matrix(-1 0 0 1 30.6251 0.625)" fill="#e2e6ef" opacity="0.30000000000" d="M0.000119556 0L0.000119556 8L0.000119556 9.9375C0.000119556 9.959 -0.000149444 9.9785 0.000119556 10L0.000119556 12L0.000119556 15L3.00012 15L5.00012 15L5.00012 14.9375L15.0001 14.9375L25.0001 14.9375L30.0001 14.9375L30.0001 13.9375L25.0001 13.9375L15.0001 13.9375L5.00012 13.9375L5.00012 10L5.00012 8L1.00012 8L1.00012 0Z"/>
    <g id="g6432-94" transform="" fill="none">
     <path id="rect5099-9-5-5" transform="matrix(-1 0 0 1 105.625 0.625)" fill="none" opacity="0.40000000000" d="M0 0L0 8L75 8L75 0ZM0 8.0625L0 10L0 25L0 54.9688L0 69.9688C0 86.5775 13.38 99.9375 30 99.9375L45 99.9375C45.9033 99.9375 46.8027 99.9201 47.6875 99.8438C48.4497 99.9131 49.2191 99.9375 50 99.9375L55 99.9375L75 99.9375L80 99.9375L80 100L90 100L100 100L105 100L105 15.0625L81 15.0625L80 15.0625L75 15.0625L75 15L75 12L75 11L75 10.0625L75 9.9375L75 8.0625Z"/>
     <path id="rect5073-4-9-9-2" transform="matrix(-1 0 0 1 29.625 0.625)" fill="#f8f8f8" d="M0 0L0 8L0 9L0 10L0 11L0 12L0 14L2 14L5 14L29 14L29 13L5 13L5 12.9375L14 12.9375L24 12.9375L29 12.9375L29 8L29 0Z"/>
    </g>
   </g>
   <g id="decoration-inactive-bottomleft" transform="translate(299.375, 201.375)" fill="none">
-   <path id="rect5073-2-768-53" transform="translate(75.6249, 0.625)" fill="#000000" fill-opacity="0.79607843137" opacity="0.30000000000" d="M0.000119556 0L0.000119556 8L0.000119556 9.9375C0.000119556 9.959 -0.000149444 9.9785 0.000119556 10L0.000119556 12L0.000119556 15L3.00012 15L5.00012 15L5.00012 14.9375L15.0001 14.9375L25.0001 14.9375L30.0001 14.9375L30.0001 13.9375L25.0001 13.9375L15.0001 13.9375L5.00012 13.9375L5.00012 10L5.00012 8L1.00012 8L1.00012 0Z"/>
+   <path id="rect5073-2-768-53" transform="translate(75.6249, 0.625)" fill="#e2e6ef" opacity="0.30000000000" d="M0.000119556 0L0.000119556 8L0.000119556 9.9375C0.000119556 9.959 -0.000149444 9.9785 0.000119556 10L0.000119556 12L0.000119556 15L3.00012 15L5.00012 15L5.00012 14.9375L15.0001 14.9375L25.0001 14.9375L30.0001 14.9375L30.0001 13.9375L25.0001 13.9375L15.0001 13.9375L5.00012 13.9375L5.00012 10L5.00012 8L1.00012 8L1.00012 0Z"/>
    <g id="g6432-7" transform="" fill="none">
     <path id="rect5099-9-5-7" transform="translate(0.625, 0.625)" fill="none" opacity="0.40000000000" d="M0 0L0 8L75 8L75 0ZM0 8.0625L0 10L0 25L0 54.9688L0 69.9688C0 86.5775 13.38 99.9375 30 99.9375L45 99.9375C45.9033 99.9375 46.8027 99.9201 47.6875 99.8438C48.4497 99.9131 49.2191 99.9375 50 99.9375L55 99.9375L75 99.9375L80 99.9375L80 100L90 100L100 100L105 100L105 15.0625L81 15.0625L80 15.0625L75 15.0625L75 15L75 12L75 11L75 10.0625L75 9.9375L75 8.0625Z"/>
     <path id="rect5073-4-9-9-28" transform="translate(76.625, 0.625)" fill="#f8f8f8" d="M0 0L0 8L0 9L0 10L0 11L0 12L0 14L2 14L5 14L29 14L29 13L5 13L5 12.9375L14 12.9375L24 12.9375L29 12.9375L29 8L29 0Z"/>
@@ -128,20 +112,20 @@
   <g id="decoration-inactive-topleft" transform="translate(299.375, 49.3125)" fill="none">
    <g id="8-4" transform="" fill="none">
     <path id="rect6520-3-2-66-3" transform="translate(0.625, 0.625)" fill="none" opacity="0.40000000000" d="M18 0C8.028 0 0 8.028 0 18L0 30L0 39L0 40L0 42L0 57L0 65.0625L0 66L0 66.0625L75 66.0625L75 66L75 65.9375L75 65.0625L75 65L75 57.0312L75 57L75 56.9688L75 40.0625C75 40.041 74.9997 40.0215 75 40L75 38C75 36.3414 76.338 35 78 35L80 35L80 35.0625L90 35.0625L100 35.0625L105 35.0625L105 0.0625L100 0.0625L100 0L90 0L90 0.0625L80 0.0625L80 0L62 0L60 0Z"/>
-    <path id="rect5073-2-2-14" transform="matrix(-1 0 0 1 105.625 35.625)" fill="url(#gradient3)" opacity="0.30000000000" d="M25 0L25 0.0625L15 0.0625L5 0.0625L0 0.0625L0 1.0625L5 1.0625L15 1.0625L25 1.0625L25 5L25 22.0312L29 22.0312L29 30L29 30.9375L29 31L30 31L30 30.9375L30 30L30 22.0312L30 21.9688L30 5.0625C30 5.041 30.0003 5.0215 30 5L30 3.0625L30 3L30 0.0625L27.5938 0.0625C27.3981 0.02275 27.2077 0 27 0Z"/>
-    <path id="rect5073-4-9-64-7" transform="matrix(-1 0 0 1 105.625 36.6875)" fill="#808080" d="M26 0L26 0.9375L25 0.9375L25 1L15 1L5 1L0 1L0 28.9375L0 29.9375L5 29.9375L29 29.9375L29 29.875L29 28.9375L29 20.9688L29 20.9062L29 4.9375L29 3.9375L29 3L29 2.9375L29 0Z"/>
-    <path id="rect6324-5-4" transform="translate(76.625, 36.625)" fill="#808080" d="M2 0C0.892 0 0 0.892 0 2L0 3C0 1.892 0.892 1 2 1L4 1L29 1L29 0L4 0Z"/>
+    <path id="rect5073-2-2-14" transform="matrix(-1 0 0 1 105.625 35.625)" fill="#e2e6ef" opacity="0.30000000000" d="M25 0L25 0.0625L15 0.0625L5 0.0625L0 0.0625L0 1.0625L5 1.0625L15 1.0625L25 1.0625L25 5L25 22.0312L29 22.0312L29 30L29 30.9375L29 31L30 31L30 30.9375L30 30L30 22.0312L30 21.9688L30 5.0625C30 5.041 30.0003 5.0215 30 5L30 3.0625L30 3L30 0.0625L27.5938 0.0625C27.3981 0.02275 27.2077 0 27 0Z"/>
+    <path id="rect5073-4-9-64-7" transform="matrix(-1 0 0 1 105.625 36.6875)" fill="#2f343f" d="M26 0L26 0.9375L25 0.9375L25 1L15 1L5 1L0 1L0 28.9375L0 29.9375L5 29.9375L29 29.9375L29 29.875L29 28.9375L29 20.9688L29 20.9062L29 4.9375L29 3.9375L29 3L29 2.9375L29 0Z"/>
+    <path id="rect6324-5-4" transform="translate(76.625, 36.625)" fill="#2f343f" d="M2 0C0.892 0 0 0.892 0 2L0 3C0 1.892 0.892 1 2 1L4 1L29 1L29 0L4 0Z"/>
    </g>
-   <path id="rect6324-5-36-92" transform="matrix(-1 0 0 1 105.625 36.6875)" fill="#808080" opacity="0.20000000000" d="M0 0L0 1L24 1L25 1L28.7187 1L29 1L29 0L27 0L25 0L24 0ZM28.7187 2C28.8891 2.29455 29 2.6339 29 3L29 2Z"/>
+   <path id="rect6324-5-36-92" transform="matrix(-1 0 0 1 105.625 36.6875)" fill="#2f343f" d="M0 0L0 1L24 1L25 1L28.7187 1L29 1L29 0L27 0L25 0L24 0ZM28.7187 2C28.8891 2.29455 29 2.6339 29 3L29 2Z"/>
   </g>
   <g id="decoration-inactive-topright" transform="translate(549.375, 49.3125)" fill="none">
    <g id="8-7" transform="" fill="none">
     <path id="rect6520-3-2-66-8" transform="matrix(-1 0 0 1 105.625 0.625)" fill="none" opacity="0.40000000000" d="M18 0C8.028 0 0 8.028 0 18L0 30L0 39L0 40L0 42L0 57L0 65.0625L0 66L0 66.0625L75 66.0625L75 66L75 65.9375L75 65.0625L75 65L75 57.0312L75 57L75 56.9688L75 40.0625C75 40.041 74.9997 40.0215 75 40L75 38C75 36.3414 76.338 35 78 35L80 35L80 35.0625L90 35.0625L100 35.0625L105 35.0625L105 0.0625L100 0.0625L100 0L90 0L90 0.0625L80 0.0625L80 0L62 0L60 0Z"/>
-    <path id="rect5073-2-2-8" transform="translate(0.625, 35.625)" fill="url(#gradient4)" opacity="0.30000000000" d="M25 0L25 0.0625L15 0.0625L5 0.0625L0 0.0625L0 1.0625L5 1.0625L15 1.0625L25 1.0625L25 5L25 22.0312L29 22.0312L29 30L29 30.9375L29 31L30 31L30 30.9375L30 30L30 22.0312L30 21.9688L30 5.0625C30 5.041 30.0003 5.0215 30 5L30 3.0625L30 3L30 0.0625L27.5938 0.0625C27.3981 0.02275 27.2077 0 27 0Z"/>
-    <path id="rect5073-4-9-64-1" transform="translate(0.625, 36.6875)" fill="#808080" d="M26 0L26 0.9375L25 0.9375L25 1L15 1L5 1L0 1L0 28.9375L0 29.9375L5 29.9375L29 29.9375L29 29.875L29 28.9375L29 20.9688L29 20.9062L29 4.9375L29 3.9375L29 3L29 2.9375L29 0Z"/>
-    <path id="rect6324-5-1" transform="matrix(-1 0 0 1 29.6251 36.625)" fill="#808080" d="M2 0C0.892 0 0 0.892 0 2L0 3C0 1.892 0.892 1 2 1L4 1L29 1L29 0L4 0Z"/>
+    <path id="rect5073-2-2-8" transform="translate(0.625, 35.625)" fill="#e2e6ef" opacity="0.30000000000" d="M25 0L25 0.0625L15 0.0625L5 0.0625L0 0.0625L0 1.0625L5 1.0625L15 1.0625L25 1.0625L25 5L25 22.0312L29 22.0312L29 30L29 30.9375L29 31L30 31L30 30.9375L30 30L30 22.0312L30 21.9688L30 5.0625C30 5.041 30.0003 5.0215 30 5L30 3.0625L30 3L30 0.0625L27.5938 0.0625C27.3981 0.02275 27.2077 0 27 0Z"/>
+    <path id="rect5073-4-9-64-1" transform="translate(0.625, 36.6875)" fill="#2f343f" d="M26 0L26 0.9375L25 0.9375L25 1L15 1L5 1L0 1L0 28.9375L0 29.9375L5 29.9375L29 29.9375L29 29.875L29 28.9375L29 20.9688L29 20.9062L29 4.9375L29 3.9375L29 3L29 2.9375L29 0Z"/>
+    <path id="rect6324-5-1" transform="matrix(-1 0 0 1 29.6251 36.625)" fill="#2f343f" d="M2 0C0.892 0 0 0.892 0 2L0 3C0 1.892 0.892 1 2 1L4 1L29 1L29 0L4 0Z"/>
    </g>
-   <path id="rect6324-5-36-95" transform="translate(0.625, 36.6875)" fill="#808080" opacity="0.20000000000" d="M0 0L0 1L24 1L25 1L28.7187 1L29 1L29 0L27 0L25 0L24 0ZM28.7187 2C28.8891 2.29455 29 2.6339 29 3L29 2Z"/>
+   <path id="rect6324-5-36-95" transform="translate(0.625, 36.6875)" fill="#2f343f" d="M0 0L0 1L24 1L25 1L28.7187 1L29 1L29 0L27 0L25 0L24 0ZM28.7187 2C28.8891 2.29455 29 2.6339 29 3L29 2Z"/>
   </g>
  </g>
 </svg>
