@@ -8,5 +8,8 @@ This project includes only a window decoration theme, and does not come with an
 icon theme or an interface theme. It is designed to blend in with the Arc
 interface and icon them, found [here](http://github.com/horst3180/Arc-theme)
 
+For a similar (though not identical) window decoration theme for Compiz/Emerald,
+see my other theme [EmeraldEdge](https://github.com/jpwchang/EmeraldEdge/)
+
 # Preview:
 ![Preview of ModernUX](ModernUX_Preview.png)
